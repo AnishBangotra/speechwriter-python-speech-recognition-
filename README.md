@@ -3,7 +3,7 @@ Personal Speech Writer with python!
 
 
 
-# Modulee
+# Module
 -speech recognition
 -pyautogui
 -plyer
